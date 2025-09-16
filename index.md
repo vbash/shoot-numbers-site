@@ -40,7 +40,7 @@ Shoot Numbers is a specialized training application designed to improve your tar
 
 ## Support
 
-For support, feature requests, or questions, please [contact us](mailto:your-email@example.com).
+For support, feature requests, or questions, please [contact us](mailto:vitaliy.bashun@gmail.com).
 
 ---
 
