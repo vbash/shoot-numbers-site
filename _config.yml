@@ -1,0 +1,26 @@
+title: Shoot Numbers
+description: Dry-shooting trainer for improving target acquisition skills
+url: "https://vbash.github.io"
+baseurl: "/Shoot-Numbers"
+
+# GitHub Pages settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Navigation
+header_pages:
+  - privacy-policy.md
+  - index.md
+
+# SEO
+author: "Vitaliy Bashun"
+lang: en_US
+
+# GitHub repository (update this with your actual repo name)
+github_username: vbash
+repository: vbash/Shoot-Numbers
+
+# Footer
+footer: "© 2025 Vitaliy Bashun. All rights reserved."
